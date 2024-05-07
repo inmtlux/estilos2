@@ -1,0 +1,182 @@
+#contenedor{
+    width: 800px;
+    border: 1px solid black;
+    margin: auto;
+}
+#border1{
+    border: 1px solid;
+    border-width: 10px;
+    margin: 5px;
+}
+#border2{
+    border: 5px inset blue;
+    width: 380px;
+    float: left;
+}
+#border3{
+    border-radius: 10px 3px 5px 15px;
+    border: 5px solid ;
+    width: 390px;
+    float: left;
+    padding: 5px;
+}
+#border4{
+    border: solid yellow;
+    background: orange;
+}
+#border5{
+    border: 7px ridge rgb(240, 116, 34);
+    background:linear-gradient(to left, red,blue,orange,green) ;
+}
+#border6{
+    border: 8px inset rgb(0, 255, 34);
+    background-image: url("../image/123.jpeg");
+}
+#border7{
+    border: 5px solid transparent;
+    border-image: linear-gradient(to right, #22c1c2, #fdbb2d, red);
+    border-image-slice: 1;
+}
+#borrar{
+    clear: both;
+}
+#uno{
+    width: 270px;
+    border-top: 7px solid red;
+    border-right: 7px solid blue;
+    border-bottom: 7px solid rgb(49, 248, 49);
+    padding: 5px;
+}
+#dos{
+    width: 100px;
+    border-top: 5px dashed blue;
+    border-left: 13px double rgb(252, 183, 34);
+    border-right: 5px solid red ;
+    border-bottom: 10px groove rgb(21, 212, 21);
+    padding: 20px;
+}
+#tres{
+    width: 100px;
+    padding: 15px;
+    border: 5px solid blue;
+}
+#cuat{
+    width: 100px;
+    padding: 15px;
+    border: 8px inset rgb(40, 240, 40);
+}
+#cinco{
+    width: 100px;
+    padding: 15px;
+    border: 8px outset rgb(40, 240, 40);
+}
+#seis{
+    width: 170px;
+    height: 50px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(45, 49, 48);
+    padding: 6px;
+    border-radius: 1px 1px 50px 1px;
+    margin: 5px;
+    float: left;
+}
+#siete{
+    width: 170px;
+    height: 50px;
+    color: white;
+    background-color: rgb(45, 49, 48);
+    padding: 6px;
+    border-radius: 1px 1px 38% 1px;
+    margin: 5px;
+    float: left;
+}
+#ocho{
+    width: 170px;
+    height: 50px;
+    color: white;
+    background-color: rgb(45, 49, 48);
+    padding: 6px;
+    border-radius: 1px 1px 40px 1px;
+    margin: 5px;
+    float: left;
+}
+#nueve{
+    width: 170px;
+    height: 50px;
+    color: white;
+    background-color: rgb(45, 49, 48);
+    padding: 6px;
+    border-radius: 15px 45px 15px 45px;
+    margin: 5px;
+    float: left;
+}
+#diez{
+    width: 170px;
+    height: 50px;
+    color: white;
+    background-color: rgb(45, 49, 48);
+    padding: 6px;
+    border-radius: 23% 10px 23% 10px;
+    margin: 5px;
+    float: left;
+}
+#once{
+    width: 50px;
+    height: 50px;
+    color: white;
+    background-color: rgb(45, 49, 48);
+    padding: 6px;
+    border-radius: 60px 60px 60px 60px;
+    margin: 5px;
+    float: left;
+}
+#dentro{
+    width: 600px;
+    height: 150px;
+}
+#ra{
+    clear: both;
+}
+#raa{
+    width: 710px;
+    border: 5px double black;
+}
+#sister{
+    background-color: orange;
+    padding: 7px;
+}
+#llave{
+    width: 710px;
+    border: 5px dashed red;
+    box-shadow: 5px 5px 1px 1px;
+}
+#bro{
+    background-color: rgb(199, 199, 199);
+    padding: 7px;
+}
+#pro{
+    width: 729px;
+    border-left: 5px double rgb(240, 135, 135);
+    border-bottom: 10px double rgb(88, 217, 226);
+}
+#mus{
+    width: 710px;
+    background-color: rgb(72, 197, 235);
+    padding: 7px;
+    margin-left: 5px;
+}
+#che{
+    width: 710px;
+    height: 75px;
+    background-color: rgb(247, 140, 247);
+    padding: 7px;
+    border-bottom: 7px dotted rgb(205, 27, 221);
+    margin-bottom: -3px;
+    margin-top: 10px;
+}
+#cha{
+    width: 724px;
+    border-bottom: 6px dotted rgb(248, 248, 248);
+    background-color: rgb(247, 140, 247);
+    margin-top: -10px;
+}
